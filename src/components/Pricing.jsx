@@ -8,7 +8,7 @@ const Pricing = () => {
         Pricing
       </h1>
       <p className="text-gray text-sm w-full sm:w-[400px]  text-center sm:text-left">
-        Take a look at some of our recent projects to see how we've helped
+        Take a look at some of our recent projects to see how we&apos;ve helped
         businesses like yours succeed online.
       </p>
       <div className="mt-10 p-0 sm:p-10  sm:bg-white bg-transparent rounded-xl gap-10 sm:gap-0 flex flex-col sm:flex-row items-center sm:items-start justify-center sm:justify-between ">
