@@ -13,7 +13,7 @@ const ProjectsComponent = () => {
           Check Our Projects
         </h1>
         <p className="text-sm text-gray text-center w-full sm:w-[500px] m-auto">
-          Take a look at some of our recent projects to see how we've helped
+          Take a look at some of our recent projects to see how we&apos;ve helped
           businesses like yours succeed online.
         </p>
       </div>
